@@ -61,7 +61,7 @@ class _LocationAppState extends State<LocationApp> {
               height: 10.0,
             ),
             const Text(
-              "Get Location",
+              "Get My Location",
               style: TextStyle(fontSize: 26.0, fontWeight: FontWeight.bold),
             ),
             const SizedBox(
